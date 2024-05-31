@@ -1,0 +1,15 @@
+C:\Users\Nouhi\documents\Visual Studio 2022\oui\wshhh\bin\Debug\net8.0\wshhh.exe
+C:\Users\Nouhi\documents\Visual Studio 2022\oui\wshhh\bin\Debug\net8.0\wshhh.deps.json
+C:\Users\Nouhi\documents\Visual Studio 2022\oui\wshhh\bin\Debug\net8.0\wshhh.runtimeconfig.json
+C:\Users\Nouhi\documents\Visual Studio 2022\oui\wshhh\bin\Debug\net8.0\wshhh.dll
+C:\Users\Nouhi\documents\Visual Studio 2022\oui\wshhh\bin\Debug\net8.0\wshhh.pdb
+C:\Users\Nouhi\documents\Visual Studio 2022\oui\wshhh\obj\Debug\net8.0\wshhh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nouhi\documents\Visual Studio 2022\oui\wshhh\obj\Debug\net8.0\wshhh.AssemblyInfoInputs.cache
+C:\Users\Nouhi\documents\Visual Studio 2022\oui\wshhh\obj\Debug\net8.0\wshhh.AssemblyInfo.cs
+C:\Users\Nouhi\documents\Visual Studio 2022\oui\wshhh\obj\Debug\net8.0\wshhh.csproj.CoreCompileInputs.cache
+C:\Users\Nouhi\documents\Visual Studio 2022\oui\wshhh\obj\Debug\net8.0\wshhh.sourcelink.json
+C:\Users\Nouhi\documents\Visual Studio 2022\oui\wshhh\obj\Debug\net8.0\wshhh.dll
+C:\Users\Nouhi\documents\Visual Studio 2022\oui\wshhh\obj\Debug\net8.0\refint\wshhh.dll
+C:\Users\Nouhi\documents\Visual Studio 2022\oui\wshhh\obj\Debug\net8.0\wshhh.pdb
+C:\Users\Nouhi\documents\Visual Studio 2022\oui\wshhh\obj\Debug\net8.0\wshhh.genruntimeconfig.cache
+C:\Users\Nouhi\documents\Visual Studio 2022\oui\wshhh\obj\Debug\net8.0\ref\wshhh.dll
